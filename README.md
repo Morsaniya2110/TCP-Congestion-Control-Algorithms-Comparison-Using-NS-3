@@ -30,11 +30,13 @@ Evaluates **TcpNewReno**, **TcpVegas**, **TcpCubic**, and **TcpBbr** in NS-3. Me
 ---
 ## Repository Structure
 
+```
 project/
 ├── ns3/scratch-tcp-compare.cc
 ├── results/*.xml
 ├── python/plot_compare.py
 ├── python/plot_time_graphs.py
+```
 
 ---
 
