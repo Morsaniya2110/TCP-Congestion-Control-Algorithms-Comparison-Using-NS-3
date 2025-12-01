@@ -131,39 +131,4 @@ This project evaluates:
 * **TcpBbr** provides **stable throughput** with advanced bandwidth estimation.
 * Fairness results depend on bandwidth sharing between flows.
 
----
-
-## **9. Research Reference**
-
-If this work is based on a research paper, you may include a reference such as:
-
-```
-
-[1] Cardwell, N., Cheng, Y., Gunn, C., Yeganeh, S., & Jacobson, V.
-“BBR: Congestion-Based Congestion Control.” ACM SIGCOMM.
-
-```
-
-Replace with the exact publication you used.
-
----
-
-## **10. Tools and Technologies**
-
-* **NS-3 (v3.41)**
-* **C++** (for simulation logic)
-* **FlowMonitor**
-* **Python** (Pandas, Matplotlib)
-
----
-
-## **11. Learning Outcomes**
-
-Through this project, the following concepts were explored:
-
-* Understanding the behavior of different TCP variants
-* Implementing simulation environments in NS-3
-* Extracting insights from FlowMonitor XML statistics
-* Plotting comparative performance graphs
-* Evaluating fairness among competing flows
 ```
